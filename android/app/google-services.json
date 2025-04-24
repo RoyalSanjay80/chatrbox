@@ -1,0 +1,86 @@
+{
+  "project_info": {
+    "project_number": "32119811033",
+    "project_id": "test-9f415",
+    "storage_bucket": "test-9f415.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:32119811033:android:6dfaf85b678e5efe3447c8",
+        "android_client_info": {
+          "package_name": "com.example.chat_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA89UjY-N6Xpta_c-0QVCrHEoW8atjQpAQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:32119811033:android:e8c68ea72bda0c883447c8",
+        "android_client_info": {
+          "package_name": "com.example.chatrbox"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA89UjY-N6Xpta_c-0QVCrHEoW8atjQpAQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:32119811033:android:455ec2daf4adc9a93447c8",
+        "android_client_info": {
+          "package_name": "com.example.food_delivery"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA89UjY-N6Xpta_c-0QVCrHEoW8atjQpAQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:32119811033:android:2d1f44f44a02cd823447c8",
+        "android_client_info": {
+          "package_name": "com.example.notifactionapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA89UjY-N6Xpta_c-0QVCrHEoW8atjQpAQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
