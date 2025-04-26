@@ -6,7 +6,12 @@ class Message {
   final String type; // text/image
   final DateTime timestamp;
 
-  Message({required this.senderId, required this.content, required this.type, required this.timestamp});
+  Message({
+    required this.senderId,
+    required this.content,
+    required this.type,
+    required this.timestamp,
+  });
 
   factory Message.fromDoc(DocumentSnapshot doc) {
     final data = doc.data()! as Map<String, dynamic>;
